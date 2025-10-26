@@ -18,9 +18,9 @@ export default function TrustBar({ locale }: TrustBarProps) {
       value: COMPANY_INFO.licenseNumber,
     },
     {
-      icon: User,
-      label: t.manager,
-      value: COMPANY_INFO.manager,
+      icon: Building2,
+      label: t.freeZone,
+      value: COMPANY_INFO.type,
     },
     {
       icon: MapPin,
@@ -28,9 +28,9 @@ export default function TrustBar({ locale }: TrustBarProps) {
       value: COMPANY_INFO.headquarters.city,
     },
     {
-      icon: Building2,
-      label: t.freeZone,
-      value: COMPANY_INFO.type,
+      icon: User,
+      label: t.management,
+      value: 'Certified Consultants',
     },
   ];
 
