@@ -1,0 +1,280 @@
+{
+  "translationStatus": {
+    "status": "draft",
+    "lastUpdated": "2025-01-03",
+    "translatedBy": "machine"
+  },
+  "nav": {
+    "home": "Startseite",
+    "about": "Über uns",
+    "services": "Leistungen",
+    "awards": "Auszeichnungen",
+    "contact": "Kontakt",
+    "blog": "Blog",
+    "partners": "Partner"
+  },
+  "hero": {
+    "title": "LABD — KLARHEIT. STRATEGIE. WACHSTUM.",
+    "subtitle": "Wir stärken Unternehmen mit strategischer Klarheit und nachhaltigen Wachstumslösungen in der MENA-Region, Europa, Asien und den USA.",
+    "primaryCta": "Kontakt aufnehmen",
+    "secondaryCta": "Unsere Leistungen",
+    "stats": {
+      "projects": "50+ Projekte",
+      "countries": "25+ Länder",
+      "successRate": "95% Erfolgsquote"
+    },
+    "scrollText": "Zum Erkunden scrollen"
+  },
+  "about": {
+    "headline": "Über LABD",
+    "blurb": "Eine führende Unternehmensberatung mit Hauptsitz in Dubai, spezialisiert auf strategische Geschäftslösungen in globalen Märkten.",
+    "established": "Gegründet im Jahr 2025, hat sich LABD L.L.C-FZ als vertrauensvoller Partner für Unternehmen etabliert, die strategische Klarheit und nachhaltiges Wachstum suchen.",
+    "principles": {
+      "title": "Grundprinzipien",
+      "strategicClarity": {
+        "title": "Strategische Klarheit",
+        "description": "Bereitstellung klarer, umsetzbarer Erkenntnisse für Geschäftsentscheidungen"
+      },
+      "globalPerspective": {
+        "title": "Globale Perspektive",
+        "description": "Nutzung internationaler Expertise in MENA, Europa, Asien und USA"
+      },
+      "sustainableGrowth": {
+        "title": "Nachhaltiges Wachstum",
+        "description": "Langfristige Wertschöpfung durch innovative Geschäftslösungen"
+      }
+    },
+    "approach": {
+      "title": "Unser Ansatz",
+      "analysis": {
+        "title": "Umfassende Analyse",
+        "description": "Tiefgreifende Marktforschung und Wettbewerbslandschaftsanalyse"
+      },
+      "planning": {
+        "title": "Strategische Planung",
+        "description": "Maßgeschneiderte Geschäftsstrategien, die auf Ihre Ziele abgestimmt sind"
+      },
+      "implementation": {
+        "title": "Umsetzungsunterstützung",
+        "description": "End-to-End-Ausführungsberatung und Leistungsüberwachung"
+      }
+    },
+    "companyFacts": {
+      "title": "Unternehmensfakten",
+      "headquarters": "Dubai, VAE (Strategische Lage im Herzen der MENA-Region)",
+      "management": "Bold Molor (Erfahrene Führung, die Innovation vorantreibt)",
+      "globalReach": "MENA, Europa, Asien, USA (Umfassende internationale Präsenz)"
+    },
+    "cta": {
+      "text": "Bereit, Ihr Unternehmen zu transformieren? Lassen Sie uns über Ihre strategischen Bedürfnisse sprechen.",
+      "button": "Loslegen"
+    }
+  },
+  "services": {
+    "headline": "Umfassende Unternehmensberatungsdienstleistungen, die darauf ausgelegt sind, Ihr Unternehmen mit strategischer Klarheit und nachhaltigem Wachstum voranzubringen.",
+    "categories": {
+      "strategic": {
+        "title": "Strategische Beratung",
+        "items": [
+          "Unternehmensstrategie-Beratung",
+          "Internationale Geschäftsentwicklung",
+          "Markteintritts- und Expansionsstrategien (MENA, Europa, Asien, USA)"
+        ]
+      },
+      "businessDev": {
+        "title": "Geschäftsentwicklung",
+        "items": [
+          "Organisationsentwicklung und Restrukturierung",
+          "Geschäftsprozessoptimierung",
+          "Change Management und Transformation"
+        ]
+      },
+      "marketAnalysis": {
+        "title": "Marktanalyse",
+        "items": [
+          "Markt- und Wettbewerbsanalyse",
+          "Standort- und Investitionsberatung",
+          "Unternehmensbewertung und Due Diligence"
+        ]
+      },
+      "digitalTransformation": {
+        "title": "Digitale Transformation",
+        "items": [
+          "Digitale Transformation und Prozessautomatisierung",
+          "Technologiestrategie und -implementierung",
+          "Digitales Marketing und E-Commerce"
+        ]
+      },
+      "leadership": {
+        "title": "Führung und Coaching",
+        "items": [
+          "Führungs- und Management-Coaching",
+          "Executive Training und Workshops",
+          "Interkulturelle Unternehmensberatung"
+        ]
+      },
+      "riskFinance": {
+        "title": "Risiko und Finanzen",
+        "items": [
+          "Krisen- und Risikomanagement",
+          "Unternehmensfinanzierung und Kapitalbeschaffung",
+          "Nachhaltigkeits- und ESG-Beratung"
+        ]
+      }
+    },
+    "metrics": {
+      "categories": "20+ Servicekategorien",
+      "countriesServed": "50+ Länder betreut",
+      "successRate": "95% Erfolgsquote"
+    },
+    "cta": {
+      "headline": "Bereit, Ihr Unternehmen zu transformieren?",
+      "text": "Lassen Sie unsere Experten Ihnen helfen, komplexe Geschäftsherausforderungen zu bewältigen und neue Wachstumschancen zu erschließen.",
+      "buttons": {
+        "consultation": "Beratungstermin vereinbaren",
+        "quote": "Kostenloses Angebot erhalten"
+      }
+    }
+  },
+  "awards": {
+    "headline": "Auszeichnungen und Erfolge",
+    "year2025": {
+      "bestConsultancy": {
+        "title": "Beste Unternehmensberatung",
+        "organization": "Dubai Business Awards",
+        "description": "Ausgezeichnet für Exzellenz in strategischer Beratung und Geschäftstransformation in der MENA-Region."
+      },
+      "internationalBusiness": {
+        "title": "Exzellenz im internationalen Geschäft",
+        "organization": "MENA Business Awards",
+        "description": "Herausragende Beiträge zur internationalen Geschäftsentwicklung und grenzüberschreitenden Partnerschaften."
+      },
+      "strategicInnovation": {
+        "title": "Strategischer Innovationsaward",
+        "organization": "Gulf Business Excellence",
+        "description": "Innovative Ansätze für Geschäftsstrategie und digitale Transformationslösungen."
+      },
+      "consultingExcellence": {
+        "title": "Beratungsexzellenz",
+        "organization": "UAE Business Forum",
+        "description": "Außergewöhnlicher Kundenservice und messbare Geschäftsauswirkungen in verschiedenen Branchen."
+      }
+    },
+    "impactKpis": {
+      "projects": "20+ abgeschlossene Projekte — Erfolgreiche Umsetzungen",
+      "clients": "12+ globale Kunden — Zufriedene Kunden",
+      "countries": "9+ betreute Länder — Internationale Reichweite",
+      "satisfaction": "98% Kundenzufriedenheit — Erwartungen übertroffen"
+    },
+    "certifications": {
+      "title": "Zertifizierungen und Mitgliedschaften",
+      "iso9001": "ISO 9001:2015 — Qualitätsmanagementsystem",
+      "iso14001": "ISO 14001:2015 — Umweltmanagement",
+      "dubaiChamber": "Dubai Chamber — Business Excellence Mitglied"
+    }
+  },
+  "contact": {
+    "headline": "Bereit, Ihr Unternehmen zu transformieren? Kontaktieren Sie noch heute unsere Expertenberater.",
+    "cta": "Kontakt aufnehmen",
+    "address": {
+      "title": "Adresse",
+      "street": "Meydan Grandstand, 6. Stock, Meydan Road, Nad Al Sheba, Dubai, VAE"
+    },
+    "email": "booking@labd-consulting.com",
+    "phone": "+971 58 599 7356",
+    "businessHours": {
+      "title": "Geschäftszeiten",
+      "weekdays": "Montag – Freitag: 10:00 – 18:00 Uhr",
+      "saturday": "Samstag: 10:00 – 13:00 Uhr",
+      "sunday": "Sonntag: Geschlossen"
+    },
+    "form": {
+      "fullName": "Vollständiger Name",
+      "email": "E-Mail-Adresse",
+      "company": "Firmenname",
+      "message": "Nachricht",
+      "submit": "Nachricht senden",
+      "required": "erforderlich",
+      "optional": "optional"
+    },
+    "map": {
+      "label": "Finden Sie uns"
+    },
+    "success": "Vielen Dank für Ihre Nachricht. Wir werden uns bald bei Ihnen melden!",
+    "error": "Beim Senden Ihrer Nachricht ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut."
+  },
+  "partners": {
+    "headline": "Unsere Technologiepartner",
+    "antrieb": {
+      "title": "Antrieb 2.0",
+      "country": "Deutschland",
+      "description": "Softwareentwicklung und digitale Präsenz — Strategie durch innovative Technologielösungen zum Leben erwecken."
+    }
+  },
+  "footer": {
+    "tagline": "LABD — Stärkung von Unternehmen mit strategischer Klarheit und nachhaltigen Wachstumslösungen in MENA, Europa, Asien und den USA.",
+    "quickLinks": {
+      "title": "Schnelllinks",
+      "about": "Über uns",
+      "services": "Leistungen",
+      "awards": "Auszeichnungen",
+      "contact": "Kontakt"
+    },
+    "servicesList": {
+      "title": "Leistungen",
+      "strategic": "Strategische Beratung",
+      "businessDev": "Geschäftsentwicklung",
+      "digital": "Digitale Transformation",
+      "risk": "Risikomanagement"
+    },
+    "legal": {
+      "copyright": "© 2025 LABD L.L.C-FZ. Alle Rechte vorbehalten.",
+      "privacy": "Datenschutzrichtlinie",
+      "terms": "Nutzungsbedingungen",
+      "cookies": "Cookie-Richtlinie"
+    }
+  },
+  "legal": {
+    "privacy": {
+      "title": "Datenschutzrichtlinie",
+      "description": "Ihre Privatsphäre ist uns wichtig. Diese Richtlinie erklärt, wie LABD L.L.C Ihre Informationen sammelt, verwendet und schützt.",
+      "lastUpdated": "Zuletzt aktualisiert: 3. Januar 2025"
+    },
+    "terms": {
+      "title": "Nutzungsbedingungen",
+      "description": "Professionelle Bedingungen für LABD L.L.C Unternehmensberatungsdienstleistungen.",
+      "lastUpdated": "Zuletzt aktualisiert: 3. Januar 2025"
+    },
+    "cookies": {
+      "title": "Cookie-Richtlinie",
+      "description": "Wie wir Cookies und ähnliche Technologien verwenden, um Ihr Browser-Erlebnis zu verbessern.",
+      "lastUpdated": "Zuletzt aktualisiert: 3. Januar 2025"
+    }
+  },
+  "blog": {
+    "title": "Geschäftseinblicke und Artikel",
+    "description": "Neueste Geschäftseinblicke, Unternehmensberatungsartikel und Branchenanalysen von LABD L.L.C Experten.",
+    "readMore": "Mehr lesen",
+    "publishedOn": "Veröffentlicht am",
+    "author": "Autor",
+    "tags": "Tags",
+    "categories": {
+      "all": "Alle",
+      "strategy": "Strategie",
+      "digital": "Digital",
+      "leadership": "Führung",
+      "market": "Marktanalyse",
+      "sustainability": "Nachhaltigkeit"
+    }
+  },
+  "common": {
+    "loading": "Laden...",
+    "error": "Ein Fehler ist aufgetreten",
+    "retry": "Erneut versuchen",
+    "close": "Schließen",
+    "readMore": "Mehr lesen",
+    "learnMore": "Mehr erfahren",
+    "getStarted": "Loslegen",
+    "contactUs": "Kontaktieren Sie uns"
+  }
+}

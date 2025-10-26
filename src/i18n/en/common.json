@@ -1,0 +1,280 @@
+{
+  "translationStatus": {
+    "status": "complete",
+    "lastUpdated": "2025-01-03",
+    "translatedBy": "human"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "awards": "Awards",
+    "contact": "Contact",
+    "blog": "Blog",
+    "partners": "Partners"
+  },
+  "hero": {
+    "title": "LABD — CLARITY. STRATEGY. GROWTH.",
+    "subtitle": "Empowering businesses with strategic clarity and sustainable growth solutions across MENA, Europe, Asia, and the USA.",
+    "primaryCta": "Get in Touch",
+    "secondaryCta": "Our Services",
+    "stats": {
+      "projects": "50+ Projects",
+      "countries": "25+ Countries",
+      "successRate": "95% Success Rate"
+    },
+    "scrollText": "Scroll to explore"
+  },
+  "about": {
+    "headline": "About LABD",
+    "blurb": "A premier management consultancy firm headquartered in Dubai, specializing in strategic business solutions across global markets.",
+    "established": "Established in 2025, LABD L.L.C-FZ has emerged as a trusted partner for businesses seeking strategic clarity and sustainable growth.",
+    "principles": {
+      "title": "Core Principles",
+      "strategicClarity": {
+        "title": "Strategic Clarity",
+        "description": "Providing clear, actionable insights that drive business decisions"
+      },
+      "globalPerspective": {
+        "title": "Global Perspective",
+        "description": "Leveraging international expertise across MENA, Europe, Asia, and USA"
+      },
+      "sustainableGrowth": {
+        "title": "Sustainable Growth",
+        "description": "Creating long-term value through innovative business solutions"
+      }
+    },
+    "approach": {
+      "title": "Our Approach",
+      "analysis": {
+        "title": "Comprehensive Analysis",
+        "description": "Deep-dive market research and competitive landscape analysis"
+      },
+      "planning": {
+        "title": "Strategic Planning",
+        "description": "Customized business strategies aligned with your objectives"
+      },
+      "implementation": {
+        "title": "Implementation Support",
+        "description": "End-to-end execution guidance and performance monitoring"
+      }
+    },
+    "companyFacts": {
+      "title": "Company Facts",
+      "headquarters": "Dubai, UAE (Strategic location in the heart of MENA)",
+      "management": "Bold Molor (Experienced leadership driving innovation)",
+      "globalReach": "MENA, Europe, Asia, USA (Comprehensive international presence)"
+    },
+    "cta": {
+      "text": "Ready to transform your business? Let's discuss your strategic needs.",
+      "button": "Get Started"
+    }
+  },
+  "services": {
+    "headline": "Comprehensive management consulting services designed to drive your business forward with strategic clarity and sustainable growth.",
+    "categories": {
+      "strategic": {
+        "title": "Strategic Consulting",
+        "items": [
+          "Corporate strategy consulting",
+          "International business development",
+          "Market entry & expansion strategies (MENA, Europe, Asia, USA)"
+        ]
+      },
+      "businessDev": {
+        "title": "Business Development",
+        "items": [
+          "Organizational development & restructuring",
+          "Business process optimization",
+          "Change management & transformation"
+        ]
+      },
+      "marketAnalysis": {
+        "title": "Market Analysis",
+        "items": [
+          "Market & competitive analysis",
+          "Location & investment advisory",
+          "Company valuation & due diligence"
+        ]
+      },
+      "digitalTransformation": {
+        "title": "Digital Transformation",
+        "items": [
+          "Digital transformation & process automation",
+          "Technology strategy & implementation",
+          "Digital marketing & e-commerce"
+        ]
+      },
+      "leadership": {
+        "title": "Leadership & Coaching",
+        "items": [
+          "Leadership & management coaching",
+          "Executive training & workshops",
+          "Cross-cultural business consulting"
+        ]
+      },
+      "riskFinance": {
+        "title": "Risk & Finance",
+        "items": [
+          "Crisis & risk management",
+          "Corporate finance & capital raising",
+          "Sustainability & ESG advisory"
+        ]
+      }
+    },
+    "metrics": {
+      "categories": "20+ Service Categories",
+      "countriesServed": "50+ Countries Served",
+      "successRate": "95% Success Rate"
+    },
+    "cta": {
+      "headline": "Ready to Transform Your Business?",
+      "text": "Let our expert consultants help you navigate complex business challenges and unlock new opportunities for growth.",
+      "buttons": {
+        "consultation": "Schedule a Consultation",
+        "quote": "Get Free Quote"
+      }
+    }
+  },
+  "awards": {
+    "headline": "Awards & Achievements",
+    "year2025": {
+      "bestConsultancy": {
+        "title": "Best Management Consultancy",
+        "organization": "Dubai Business Awards",
+        "description": "Recognized for excellence in strategic consulting and business transformation services across the MENA region."
+      },
+      "internationalBusiness": {
+        "title": "Excellence in International Business",
+        "organization": "MENA Business Awards",
+        "description": "Outstanding contributions to international business development and cross-border partnerships."
+      },
+      "strategicInnovation": {
+        "title": "Strategic Innovation Award",
+        "organization": "Gulf Business Excellence",
+        "description": "Innovative approaches to business strategy and digital transformation solutions."
+      },
+      "consultingExcellence": {
+        "title": "Consulting Excellence",
+        "organization": "UAE Business Forum",
+        "description": "Exceptional client service and measurable business impact across diverse industries."
+      }
+    },
+    "impactKpis": {
+      "projects": "20+ Projects Completed — Successful implementations",
+      "clients": "12+ Global Clients — Satisfied customers",
+      "countries": "9+ Countries Served — International reach",
+      "satisfaction": "98% Client Satisfaction — Exceeding expectations"
+    },
+    "certifications": {
+      "title": "Certifications & Memberships",
+      "iso9001": "ISO 9001:2015 — Quality Management System",
+      "iso14001": "ISO 14001:2015 — Environmental Management",
+      "dubaiChamber": "Dubai Chamber — Business Excellence Member"
+    }
+  },
+  "contact": {
+    "headline": "Ready to transform your business? Get in touch with our expert consultants today.",
+    "cta": "Get in Touch",
+    "address": {
+      "title": "Address",
+      "street": "Meydan Grandstand, 6th floor, Meydan Road, Nad Al Sheba, Dubai, UAE"
+    },
+    "email": "booking@labd-consulting.com",
+    "phone": "+971 58 599 7356",
+    "businessHours": {
+      "title": "Business Hours",
+      "weekdays": "Monday – Friday: 10:00 AM – 6:00 PM",
+      "saturday": "Saturday: 10:00 AM – 1:00 PM",
+      "sunday": "Sunday: Closed"
+    },
+    "form": {
+      "fullName": "Full Name",
+      "email": "Email Address",
+      "company": "Company Name",
+      "message": "Message",
+      "submit": "Send Message",
+      "required": "required",
+      "optional": "optional"
+    },
+    "map": {
+      "label": "Find Us"
+    },
+    "success": "Thank you for your message. We'll get back to you soon!",
+    "error": "There was an error sending your message. Please try again."
+  },
+  "partners": {
+    "headline": "Our Technology Partners",
+    "antrieb": {
+      "title": "Antrieb 2.0",
+      "country": "Germany",
+      "description": "Software Development & Digital Presence — Bringing strategy to life through innovative technology solutions."
+    }
+  },
+  "footer": {
+    "tagline": "LABD — Empowering businesses with strategic clarity and sustainable growth solutions across MENA, Europe, Asia, and the USA.",
+    "quickLinks": {
+      "title": "Quick Links",
+      "about": "About Us",
+      "services": "Services",
+      "awards": "Awards",
+      "contact": "Contact"
+    },
+    "servicesList": {
+      "title": "Services",
+      "strategic": "Strategic Consulting",
+      "businessDev": "Business Development",
+      "digital": "Digital Transformation",
+      "risk": "Risk Management"
+    },
+    "legal": {
+      "copyright": "© 2025 LABD L.L.C-FZ. All rights reserved.",
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service",
+      "cookies": "Cookie Policy"
+    }
+  },
+  "legal": {
+    "privacy": {
+      "title": "Privacy Policy",
+      "description": "Your privacy is important to us. This policy outlines how LABD L.L.C collects, uses, and protects your information.",
+      "lastUpdated": "Last updated: January 3, 2025"
+    },
+    "terms": {
+      "title": "Terms of Service",
+      "description": "Professional terms and conditions for LABD L.L.C management consulting services.",
+      "lastUpdated": "Last updated: January 3, 2025"
+    },
+    "cookies": {
+      "title": "Cookie Policy",
+      "description": "How we use cookies and similar technologies to enhance your browsing experience.",
+      "lastUpdated": "Last updated: January 3, 2025"
+    }
+  },
+  "blog": {
+    "title": "Business Insights & Articles",
+    "description": "Latest business insights, management consulting articles, and industry analysis from LABD L.L.C experts.",
+    "readMore": "Read More",
+    "publishedOn": "Published on",
+    "author": "Author",
+    "tags": "Tags",
+    "categories": {
+      "all": "All",
+      "strategy": "Strategy",
+      "digital": "Digital",
+      "leadership": "Leadership",
+      "market": "Market Analysis",
+      "sustainability": "Sustainability"
+    }
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "retry": "Try again",
+    "close": "Close",
+    "readMore": "Read More",
+    "learnMore": "Learn More",
+    "getStarted": "Get Started",
+    "contactUs": "Contact Us"
+  }
+}
